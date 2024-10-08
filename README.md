@@ -1,7 +1,6 @@
 # DevOps Capstone Template
 
 ![Build Status](https://github.com/rsejpal/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
@@ -9,7 +8,7 @@ This repository contains the starter code for the project in [**IBM-CD0285EN-Ski
 
 ## Usage
 
-You should use this template to start your DevOps Capstone project. It contains all of the code that you will need to get started.
+You should use this template to start your DevOps Cgiapstone project. It contains all of the code that you will need to get started.
 
 Do Not fork this code! It is meant to be used by pressing the  <span style=color:white;background:green>**Use this Template**</span> button in GitHub. This will copy the code to your own repository with no connection back to the original repository like a fork would. This is what you want.
 
